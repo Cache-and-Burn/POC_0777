@@ -1,5 +1,5 @@
 tasks:
-  - command: >
+  - command: |
     curl -L https://foundry.paradigm.xyz 
     bash
     gp sync-done foundry
